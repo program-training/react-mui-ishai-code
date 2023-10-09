@@ -1,10 +1,9 @@
-import "./App.css";
-import { Example } from "./components/Example/Example";
+import { MuiButton } from "./components/MuiButton";
 
 function App() {
   return (
     <>
-      <Example />{" "}
+      <MuiButton></MuiButton>
     </>
   );
 }
